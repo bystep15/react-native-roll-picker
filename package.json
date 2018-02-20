@@ -2,7 +2,7 @@
   "name": "react-native-roll-picker",
   "version": "1.0.6",
   "description": "A cross-platform (iOS&Android), selector/picker component for React Native.",
-  "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
+  "main": "index.js",
   "author": "yjy",
   "license": "MIT",
   "devDependencies": {
