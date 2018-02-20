@@ -13,7 +13,7 @@ export default class App extends Component {
     render() {
         return (
             <View style = {{flex: 1}}>
-                <View style = {{height: 350, flexDirection: 'row'}}>
+                <View style = {{height: 450, flexDirection: 'row'}}>
                     <View style = {{height: 350, flex: 1}}>
                         <Picker
                             data = {[{a: 'aaa'} , {a: 'bbb'}, {a: 'ccc'}]}
